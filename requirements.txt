@@ -1,0 +1,7 @@
+Django==5.2.18
+psycopg2-binary
+python-dotenv
+requests
+ultralytics
+opencv-python
+numpy

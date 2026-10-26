@@ -1,0 +1,10 @@
+Django
+djangorestframework
+django-cors-headers
+psycopg[binary]
+python-dotenv
+opencv-python
+numpy
+Pillow
+pytest
+pytest-django
